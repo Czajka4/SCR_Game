@@ -41,7 +41,7 @@ score_file = 'game_score.csv'
 pygame.init()
 
 screen = pygame.display.set_mode(screen_size)
-pygame.display.set_caption('Alien Shooter 420')
+pygame.display.set_caption('Alien Shooter 2090')
 
 pygame.mixer.init()
 pygame.mixer.music.load(music_theme)
