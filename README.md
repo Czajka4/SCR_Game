@@ -21,7 +21,7 @@ Run
 
 Options:
 
-    Steering : W A S Da
+    Steering : W A S D
     Aiming: Mouse
     Shooting: Left Mouse Button
 
